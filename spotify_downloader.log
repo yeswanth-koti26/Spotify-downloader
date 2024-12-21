@@ -1,0 +1,46 @@
+2024-12-21 13:06:24,847 - INFO - Authenticating with Spotify...
+2024-12-21 13:06:24,847 - INFO - Fetching songs from Spotify playlist...
+2024-12-21 13:09:36,346 - INFO - Authenticating with Spotify...
+2024-12-21 13:09:36,346 - INFO - Fetching songs from Spotify album...
+2024-12-21 13:09:36,346 - INFO - User authentication requires interaction with your web browser. Once you enter your credentials and give authorization, you will be redirected to a url.  Paste that url you were directed to to complete the authorization.
+2024-12-21 13:09:36,511 - INFO - Opened https://accounts.spotify.com/authorize?client_id=2f5091f611714d598b169efa72ea3091&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A8888%2Fcallback&scope=playlist-read-private in your browser
+2024-12-21 13:12:26,483 - INFO - Processing song: Silakemo Sreeram
+2024-12-21 13:12:26,483 - INFO - Processed song successfully: Silakemo Sreeram
+2024-12-21 13:12:26,483 - INFO - Processing song: Andala Chukkala Mallikarjun
+2024-12-21 13:12:26,483 - INFO - Processed song successfully: Andala Chukkala Mallikarjun
+2024-12-21 13:12:26,483 - INFO - Processing song: Maar Maar Manikka Vinayagam
+2024-12-21 13:12:26,483 - INFO - Processed song successfully: Maar Maar Manikka Vinayagam
+2024-12-21 13:12:26,483 - INFO - Processing song: O Manasa Venu Srirangam
+2024-12-21 13:12:26,483 - INFO - Processed song successfully: O Manasa Venu Srirangam
+2024-12-21 13:12:26,483 - INFO - Processing song: Anaganaga Kadala Karthik
+2024-12-21 13:12:26,483 - INFO - Processed song successfully: Anaganaga Kadala Karthik
+2024-12-21 13:12:26,483 - INFO - Processing song: Gongoora Thota Pushpavanam Kuppu Swamy
+2024-12-21 13:12:26,483 - INFO - Processed song successfully: Gongoora Thota Pushpavanam Kuppu Swamy
+2024-12-21 13:15:37,239 - INFO - Authenticating with Spotify...
+2024-12-21 13:15:37,239 - INFO - Fetching songs from Spotify album...
+2024-12-21 13:15:37,455 - INFO - Processing song: Silakemo Sreeram
+2024-12-21 13:15:37,455 - INFO - Processed song successfully: Silakemo Sreeram
+2024-12-21 13:15:37,455 - INFO - Processing song: Andala Chukkala Mallikarjun
+2024-12-21 13:15:37,455 - INFO - Processed song successfully: Andala Chukkala Mallikarjun
+2024-12-21 13:15:37,455 - INFO - Processing song: Maar Maar Manikka Vinayagam
+2024-12-21 13:15:37,455 - INFO - Processed song successfully: Maar Maar Manikka Vinayagam
+2024-12-21 13:15:37,455 - INFO - Processing song: O Manasa Venu Srirangam
+2024-12-21 13:15:37,455 - INFO - Processed song successfully: O Manasa Venu Srirangam
+2024-12-21 13:15:37,455 - INFO - Processing song: Anaganaga Kadala Karthik
+2024-12-21 13:15:37,465 - INFO - Processed song successfully: Anaganaga Kadala Karthik
+2024-12-21 13:15:37,465 - INFO - Processing song: Gongoora Thota Pushpavanam Kuppu Swamy
+2024-12-21 13:15:37,465 - INFO - Processed song successfully: Gongoora Thota Pushpavanam Kuppu Swamy
+2024-12-21 13:16:22,647 - INFO - Authenticating with Spotify...
+2024-12-21 13:16:22,647 - INFO - Fetching songs from Spotify album...
+2024-12-21 13:16:22,852 - INFO - Processing song: Silakemo Sreeram
+2024-12-21 13:16:22,852 - INFO - Processed song successfully: Silakemo Sreeram
+2024-12-21 13:16:22,852 - INFO - Processing song: Andala Chukkala Mallikarjun
+2024-12-21 13:16:22,852 - INFO - Processed song successfully: Andala Chukkala Mallikarjun
+2024-12-21 13:16:22,852 - INFO - Processing song: Maar Maar Manikka Vinayagam
+2024-12-21 13:16:22,852 - INFO - Processed song successfully: Maar Maar Manikka Vinayagam
+2024-12-21 13:16:22,852 - INFO - Processing song: O Manasa Venu Srirangam
+2024-12-21 13:16:22,852 - INFO - Processed song successfully: O Manasa Venu Srirangam
+2024-12-21 13:16:22,852 - INFO - Processing song: Anaganaga Kadala Karthik
+2024-12-21 13:16:22,852 - INFO - Processed song successfully: Anaganaga Kadala Karthik
+2024-12-21 13:16:22,852 - INFO - Processing song: Gongoora Thota Pushpavanam Kuppu Swamy
+2024-12-21 13:16:22,852 - INFO - Processed song successfully: Gongoora Thota Pushpavanam Kuppu Swamy
