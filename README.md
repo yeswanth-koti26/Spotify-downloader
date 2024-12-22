@@ -9,8 +9,7 @@ A Python-based project to fetch songs from Spotify, search them on YouTube, and 
 - [Technologies](#technologies)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
-- [License](#license)
-- [Disclaimer](#disclaimer)
+
 
 ---
 
